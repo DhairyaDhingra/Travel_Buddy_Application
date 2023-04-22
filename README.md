@@ -6,6 +6,7 @@ widely used by tourists, the use of a mobile application would be definitely eff
 The work done in the application attempts to provide an interactive solution to this shortcoming that is to develop an effective tourism application for tourists of diverse travel intentions to any city in India. The application is ultimately targeted to elevate tourist knowledge of hot spots in India.
 
 Welcome page, displaying various cities.
+
 ![image](https://user-images.githubusercontent.com/112279981/233792235-66d8fe49-1797-47b1-ae2c-829ce3052975.png)
 
 
